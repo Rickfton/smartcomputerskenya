@@ -1,0 +1,2 @@
+# smartcomputerskenya
+main project
